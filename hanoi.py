@@ -80,7 +80,7 @@ while num_disks < 3:
 
 for i in range(num_disks):
     left_stack.push(num_disks - i)
-print(left_stack.print_items())
+
 
 num_optimal_moves = (2**num_disks) - 1
 print('\nThe fastest you can solve this game is in {} moves.\n'.format(num_optimal_moves))
