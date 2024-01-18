@@ -6,7 +6,7 @@ Towers of Hanoi is a mathematical game invented in 1883 by a French mathematicia
 - Any disc can be moved on to a rod containing a disc such that the disc being moved is smaller than the disc it is being moved on top of.
 
 ## Starting the game
-The game is run through the terminal. In order to start the game, navigate to the directory where the 'hanoi.py' file is saved and input 'python3 hanoi.py ' into the command line.
+The game is run through a command-line interface. In order to start the game, navigate to the directory where the 'hanoi.py' file is saved and input 'python3 hanoi.py ' into the command line.
 
 ## Gameplay
 The game will first ask how many discs you would like to play with. For beginners, it is recommended you play with 3 discs to become familiar with the rules (2 discs is a trivial solution so 3 is the minimum allowed response). Input the desired number of discs as an integer and press enter.
